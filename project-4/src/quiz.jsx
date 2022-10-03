@@ -1,8 +1,8 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
-import Start from './Start'
-import './start.css'
+import App from './App'
+import './quiz.css'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
-    <Start />
+    <App />
 )
